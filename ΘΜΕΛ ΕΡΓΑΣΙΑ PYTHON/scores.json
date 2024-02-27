@@ -1,0 +1,36 @@
+{
+    "games": [
+        {
+            "username": "gf",
+            "userscore": 0,
+            "pcscore": 0,
+            "rounds": 0,
+            "whowon": "anyone",
+            "algo": "smartfail"
+        },
+        {
+            "username": "sad",
+            "userscore": 22,
+            "pcscore": 21,
+            "rounds": 2,
+            "whowon": "player",
+            "algo": "smartfail"
+        },
+        {
+            "username": "sdfa",
+            "userscore": 0,
+            "pcscore": 0,
+            "rounds": 0,
+            "whowon": "anyone",
+            "algo": "smartfail"
+        },
+        {
+            "username": "asd",
+            "userscore": 0,
+            "pcscore": 0,
+            "rounds": 0,
+            "whowon": "anyone",
+            "algo": "smartfail"
+        }
+    ]
+}
